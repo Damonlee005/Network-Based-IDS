@@ -20,4 +20,15 @@ This project is intended to grow alongside my learning in networking and cyberse
 
 ---
 ## Usage
+## Usage
+This project is intended for learning and experimentation in an offline environment. It is not designed for real time monitoring or deployment on live networks.
 
+Typical usage involves running the analysis scripts on sample or simulated network traffic data to observe how different traffic patterns are processed and how the detection logic responds. Users can modify traffic inputs, detection thresholds, or feature extraction logic to explore how these changes affect results.
+
+This section is meant to support hands on learning, allowing users to:
+1. Run the project on provided or self generated sample traffic
+2. Observe how normal and intrusive traffic are handled differently
+3. Experiment with detection logic and thresholds
+4. Review outputs to understand why certain traffic is flagged
+
+---
