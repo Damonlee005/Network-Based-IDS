@@ -34,3 +34,10 @@ This section is meant to support hands on learning, allowing users to:
 
 ## What I Learned
 ---
+
+Through building and experimenting with this project, I learned several practical and conceptual lessons about network intrusion detection.
+I gained hands on experience working with network traffic data and learned how basic features such as packet counts, connection patterns, and port usage can be extracted and analyzed using Python. I learned how establishing a baseline of normal behavior is necessary before attempting to identify intrusive activity.
+
+This project also helped me understand how easily simple detection logic can produce false positives and how difficult it is to clearly separate normal and malicious behavior. Working with simulated traffic reinforced the importance of controlled experimentation when learning security concepts.
+
+Overall, this project improved my understanding of intrusion detection fundamentals and highlighted the gap between exploratory prototypes and real world security systems.
