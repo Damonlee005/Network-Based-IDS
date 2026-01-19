@@ -6,8 +6,9 @@ This project is an exploratory Network Based Intrusion Detection System built wi
 
 The project is designed as a learning exercise that emphasizes experimentation and understanding rather than accuracy or deployment. Network traffic data is processed offline using Python to extract basic features such as packet counts, connection patterns, and port usage. Baseline behavior is established from non intrusive traffic, and simple rule based detection logic is applied to identify deviations using simulated intrusive activity. Detection results are analyzed to observe behavior differences and understand the limitations of basic intrusion detection approaches.
 
----
+
 ## Future Work
+---
 This project is intended to grow alongside my learning in networking and cybersecurity. As I continue to develop my skills, potential future directions for this project include:
 
 1. Learning how baseline behavior changes when using larger or more varied traffic datasets  
@@ -16,11 +17,11 @@ This project is intended to grow alongside my learning in networking and cyberse
 4. Improving feature extraction to better understand temporal and behavioral traffic characteristics  
 5. Studying why false positives occur and experimenting with ways to reduce them  
 6. Connecting insights from this project with concepts explored in my Network Traffic Digital Twin project  
-7. Gaining exposure to performance and scalability considerations in a controlled, learning-focused environment  
+7. Gaining exposure to performance and scalability considerations in a controlled, learning-focused environment
 
+   
+## Usage
 ---
-## Usage
-## Usage
 This project is intended for learning and experimentation in an offline environment. It is not designed for real time monitoring or deployment on live networks.
 
 Typical usage involves running the analysis scripts on sample or simulated network traffic data to observe how different traffic patterns are processed and how the detection logic responds. Users can modify traffic inputs, detection thresholds, or feature extraction logic to explore how these changes affect results.
