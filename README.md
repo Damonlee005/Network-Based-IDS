@@ -30,8 +30,7 @@ This section is meant to support hands on learning, allowing users to:
 1. Run the project on provided or self generated sample traffic
 2. Observe how normal and intrusive traffic are handled differently
 3. Experiment with detection logic and thresholds
-4. Review outputs to understand why certain traffic is flagged
-
----
+4. Review outputs to understand why certain traffic is flagged\
 
 ## What I Learned
+---
