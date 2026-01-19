@@ -33,3 +33,5 @@ This section is meant to support hands on learning, allowing users to:
 4. Review outputs to understand why certain traffic is flagged
 
 ---
+
+## What I Learned
