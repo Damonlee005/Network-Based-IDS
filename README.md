@@ -1,4 +1,4 @@
-#Network-Based-IDS
+
 
 ## Summary / Overview 
 ---
@@ -32,9 +32,9 @@ This section is meant to support hands on learning, allowing users to:
 3. Experiment with detection logic and thresholds
 4. Review outputs to understand why certain traffic is flagged
 
+
 ## What I Learned
 ---
-
 Through building and experimenting with this project, I learned several practical and conceptual lessons about network intrusion detection.
 I gained hands on experience working with network traffic data and learned how basic features such as packet counts, connection patterns, and port usage can be extracted and analyzed using Python. I learned how establishing a baseline of normal behavior is necessary before attempting to identify intrusive activity.
 
